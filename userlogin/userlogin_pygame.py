@@ -8,7 +8,7 @@ FPS = 32
 
 #define some colors
 BLACK = (160,160,160)
-PURPLE = (102, 0, 102)
+PURPLE = (102, 0, 103)
 BLUE = (0,102,204)
 RED = (204,0,102)
 
